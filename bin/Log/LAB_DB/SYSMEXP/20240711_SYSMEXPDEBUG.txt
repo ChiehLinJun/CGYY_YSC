@@ -1,0 +1,49 @@
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:35:41.4147904
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'Z:\SampleResult' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexP.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexP.cs: 行 36 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:36:00.2694576
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'Z:\SampleResult' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexP.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexP.cs: 行 36 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:36:01.8503473
+[MSG] : [CREATE][MSG] FAIL : 連線要求逾時 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:36:40.3349813
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'Z:\SampleResult' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexP.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexP.cs: 行 36 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:37:00.2311957
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'Z:\SampleResult' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexP.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexP.cs: 行 36 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:37:00.5900216
+[MSG] : [CREATE][MSG] FAIL : 連線要求逾時 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:37:20.2308038
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'Z:\SampleResult' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexP.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexP.cs: 行 36 
+[SYSMEXP_LOG]
+[DATE] : 2024年7月11日 08:37:20.6079722
+[MSG] : [CREATE][MSG] FAIL : 連線要求逾時 

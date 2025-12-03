@@ -1,0 +1,21 @@
+[ROCHE_LOG]
+[DATE] : 2024年7月11日 08:36:01.8343045
+[MSG] : Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchMultiple[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 97
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchRecodeDataByInsname(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.CreateRocheHl7() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 32 
+[ROCHE_LOG]
+[DATE] : 2024年7月11日 08:37:00.5700214
+[MSG] : Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchMultiple[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 97
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchRecodeDataByInsname(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.CreateRocheHl7() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 32 
+[ROCHE_LOG]
+[DATE] : 2024年7月11日 08:37:20.5972004
+[MSG] : Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchMultiple[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 97
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchRecodeDataByInsname(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.CreateRocheHl7() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 75
+   於 CG_Laboratory_DB.Services.CreateHL7.RocheWriteToFile.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\CreateRocheHL7\RocheWriteToFile.cs: 行 32 

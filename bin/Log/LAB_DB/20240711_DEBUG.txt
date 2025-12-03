@@ -1,0 +1,9 @@
+[DEBUG_LOG]
+[DATE] : 2024年7月11日 08:36:00.1635062
+[MSG] : 2024/7/11 上午 08:36:00 | LisTransfer is runing 
+[DEBUG_LOG]
+[DATE] : 2024年7月11日 08:37:00.1596135
+[MSG] : 2024/7/11 上午 08:37:00 | LisTransfer is runing 
+[DEBUG_LOG]
+[DATE] : 2024年7月11日 08:37:30.0391092
+[MSG] : 2024/7/11 上午 08:37:30 | LisTransfer is runing 

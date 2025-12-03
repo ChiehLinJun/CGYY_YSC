@@ -1,0 +1,400 @@
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:41.4222914
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:42.1379274
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:44.1249500
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:46.1443719
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:48.1986471
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:50.1899049
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:52.0958329
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:54.0414172
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:56.1532450
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:35:58.1435417
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:00.2548276
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:02.1970905
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:04.1558392
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:06.1826694
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:08.1590350
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:10.0699704
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:12.1666249
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:14.1948139
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:16.2312369
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:18.1440298
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:38.4144092
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:40.2799272
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:42.2223860
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:44.1642780
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:46.1220527
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:48.1671674
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:50.1608417
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:52.1167156
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:54.0375114
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:56.2050528
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:36:58.1832526
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:00.2843190
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:02.1936811
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:04.2184622
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:06.2278293
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:08.2102501
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:10.0695998
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:12.1988835
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:14.1193062
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:16.1609857
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:18.1420938
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:20.2543357
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:22.1502731
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:24.0860878
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:26.2048085
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:28.1188053
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:30.1261095
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:32.1461144
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:34.1965420
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 
+[SNIBE_LOG]
+[DATE] : 2024年7月11日 08:37:36.1870471
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\Snibe\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.SnibeX8.SnibeX8.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\SnibeX8\SnibeX8.cs: 行 40 

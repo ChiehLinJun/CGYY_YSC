@@ -1,0 +1,92 @@
+{
+  "DatabaseLis": {
+    "source": "10.36.15.81:1521/CXMG1",
+    "user": "isrwsr",
+    "pw": "wsr123"
+  },
+  "DatabaseMid": {
+    "source": "10.36.15.81:1521/CXMG1",
+    "user": "cghlabm",
+    "pw": "labmappl"
+  },
+  "SnibeFilePath": {
+    "inPath": "D:\\LAB\\Snibe\\in\\",
+    "outPath": "D:\\LAB\\Snibe\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\Snibe\\",
+    "ErrorPath": "D:\\LAB\\Error\\Snibe\\"
+  },
+  "RocheFilePath": {
+    "inPath": "C:\\Users\\oper\\Desktop\\LABFileTransfer\\roche\\in\\",
+    "outPath": "C:\\Users\\oper\\Desktop\\LABFileTransfer\\roche\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\Roche\\",
+    "ErrorPath": "D:\\LAB\\Error\\Roche\\"
+  },
+  "MindrayFilePath": {
+    "inPath": "D:\\LAB\\Mindray\\in\\",
+    "outPath": "D:\\LAB\\Mindray\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\Mindray\\",
+    "ErrorPath": "D:\\LAB\\Error\\Mindray\\"
+  },  
+  "AutoFilePath": {
+    "inPath": "C:\\Users\\oper\\Desktop\\LABFileTransfer\\AutoStat\\in\\",
+    "outPath": "C:\\Users\\oper\\Desktop\\LABFileTransfer\\AutoStat\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\AutoStat\\",
+    "ErrorPath": "D:\\LAB\\Error\\AutoStat\\"
+  },
+  "SysmexpeeFilePath": {
+    "inPath": "Z:\\SampleResult\\",
+    "outPath": "Z:\\",
+    "BackupPath": "D:\\LAB\\Backup\\SysmexP\\",
+    "ErrorPath": "D:\\LAB\\Error\\SysmexP\\"
+  },
+  "SysmexBlodFilePath": {
+    "inPath": "D:\\LAB\\SysmexB\\in\\",
+    "outPath": "D:\\LAB\\SysmexB\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\SysmexB\\",
+    "ErrorPath": "D:\\LAB\\Error\\SysmexB\\"
+  },
+  "KUF20FilePath": {
+    "inPath": "D:\\LAB\\KUF20\\in\\",
+    "outPath": "D:\\LAB\\KUF20\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\KUF20\\",
+    "ErrorPath": "D:\\LAB\\Error\\KUF20\\"
+  },
+  "NRM411FilePath": {
+    "inPath": "D:\\LAB\\NRM411\\in\\",
+    "outPath": "D:\\LAB\\NRM411\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\NRM411\\",
+    "ErrorPath": "D:\\LAB\\Error\\NRM411\\"
+  },
+  "HLCG11FilePath": {
+    "inPath": "D:\\LAB\\DG11\\in\\",
+    "outPath": "D:\\LAB\\DG11\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\DG11\\",
+    "ErrorPath": "D:\\LAB\\Error\\DG11\\"
+  },
+  "GEM3500FilePath": {
+    "inPath": "D:\\LAB\\WF3500\\in\\",
+    "outPath": "D:\\LAB\\WF3500\\out\\",
+    "BackupPath": "D:\\LAB\\Backup\\WF3500\\",
+    "ErrorPath": "D:\\LAB\\Error\\WF3500\\"
+  },
+  "EROUFilePath": {
+    "inPath": "Y:\\",
+    "outPath": "Y:\\",
+    "BackupPath": "D:\\LAB\\Backup\\EROU\\",
+    "ErrorPath": "D:\\LAB\\Error\\EROU\\"
+  },
+    "BACTFilePath": {
+    "inPath": "D:\\LAB\\Mali\\in\\",
+    "BackupPath": "D:\\LAB\\Backup\\Mali\\",
+    "ErrorPath": "D:\\LAB\\Error\\Mali\\"
+  },
+"AccessDBJianSu": {
+    "sourceFile": "X:\\BV.mdb",
+    "pw": "SSBIO"
+  },
+"BarCodeSystemSwitch": {
+    "FLAG":"true"
+  }
+
+
+}

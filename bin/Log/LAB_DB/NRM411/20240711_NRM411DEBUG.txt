@@ -1,0 +1,400 @@
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:41.3057266
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:42.1716196
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:44.1199502
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:46.1570297
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:48.2548771
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:50.1608438
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:52.1896974
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:54.1455859
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:56.1425229
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:35:58.1199611
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:00.2247194
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:02.0858915
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:04.1463158
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:06.2027317
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:08.0663674
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:10.0729702
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:12.1419227
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:14.1547502
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:16.2322357
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:18.2227027
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:38.3992125
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:40.1627461
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:42.0735233
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:44.2300280
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:46.1542884
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:48.1918415
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:50.1638746
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:52.1823885
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:54.0862886
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:56.2050528
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:36:58.1577121
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:00.1325543
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:02.0590956
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:04.1716522
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:06.2032139
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:08.1944661
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:10.0645980
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:12.1837672
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:14.0825611
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:16.0679900
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:18.1553115
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:20.0946789
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:22.2308827
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:24.1573704
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:26.1877707
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:28.1088087
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:30.0995624
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:32.1121070
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:34.1870663
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 
+[NRM411_LOG]
+[DATE] : 2024年7月11日 08:37:36.2015580
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\NRM411\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.NRM411.NRM411.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\NRM411\NRM411.cs: 行 35 

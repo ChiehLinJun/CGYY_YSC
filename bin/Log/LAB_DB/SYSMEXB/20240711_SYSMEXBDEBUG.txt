@@ -1,0 +1,400 @@
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:41.4379941
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:42.2392167
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:44.1438935
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:46.1560114
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:48.2518805
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:50.2162540
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:52.1896974
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:54.1465869
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:56.1758944
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:35:58.1510578
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:00.2774596
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:02.2030902
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:04.1683624
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:06.1926605
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:08.1680654
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:10.1795104
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:12.1565371
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:14.1987219
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:16.2553145
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:18.2147025
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:38.4056060
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:40.2847950
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:42.1908521
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:44.1723469
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:46.2485111
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:48.1722717
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:50.1378463
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:52.1864494
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:54.0572883
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:56.2105611
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:36:58.1902516
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:00.2733227
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:02.2240856
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:04.2005499
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:06.2162609
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:08.2017122
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:10.0831070
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:12.1717669
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:14.1132981
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:16.1655146
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:18.1523199
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:20.1986124
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:22.2428913
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:24.1653743
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:26.2223305
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:28.1207977
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:30.1391152
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:32.1331144
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:34.1920749
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 
+[SYSMEXB_LOG]
+[DATE] : 2024年7月11日 08:37:36.1965502
+[MSG] : System.IO.DirectoryNotFoundException: 找不到路徑 'D:\LAB\SysmexB\in' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.Sysmex.SysmexB.run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Sysmex\SysmexB.cs: 行 31 

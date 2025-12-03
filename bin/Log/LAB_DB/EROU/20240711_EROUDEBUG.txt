@@ -1,0 +1,40 @@
+[EROU_LOG]
+[DATE] : 2024年7月11日 08:35:41.2679509
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'Y:\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.EROU.EROU.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\EROU\EROU.cs: 行 30 
+[EROU_LOG]
+[DATE] : 2024年7月11日 08:36:00.1324400
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'Y:\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.EROU.EROU.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\EROU\EROU.cs: 行 30 
+[EROU_LOG]
+[DATE] : 2024年7月11日 08:36:40.2415353
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'Y:\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.EROU.EROU.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\EROU\EROU.cs: 行 30 
+[EROU_LOG]
+[DATE] : 2024年7月11日 08:37:00.1966476
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'Y:\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.EROU.EROU.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\EROU\EROU.cs: 行 30 
+[EROU_LOG]
+[DATE] : 2024年7月11日 08:37:20.0359541
+[MSG] : [READ]MSG:System.IO.DirectoryNotFoundException: 找不到路徑 'Y:\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   於 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   於 System.IO.Directory.GetFiles(String path, String searchPattern)
+   於 CG_Laboratory_DB.Services.EROU.EROU.AnalysisTxt() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\EROU\EROU.cs: 行 30 

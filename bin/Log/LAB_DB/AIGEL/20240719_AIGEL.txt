@@ -1,0 +1,178 @@
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:32:03.6626451
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:32:03.6656452
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:32:28.3750104
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:32:28.3766366
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:33:57.3646027
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:33:57.3646027
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:35:13.6164867
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:35:13.6164867
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:35:47.0895768
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:35:47.0895768
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:36:09.6176301
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:36:09.6242413
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:36:49.7650204
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:36:49.7727653
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:37:38.8314133
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:38:03.9233859
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:42:13.8306119
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:42:16.1133378
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:44:28.4297535
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:44:28.4398978
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:44:36.7957000
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:44:36.7967002
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 11:44:36.7979232
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:28.7720386
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:30.4748837
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:36.5145841
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:37.2123000
+[MSG] : [READ][FROM][EQUIP] Labno : I071809105, Instid : L72-131, Result : IgG+C3d=-^IgG+C3d=-^IgG+C3d=-^IgG+C3d=BLK^-
+ 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:38.3430798
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:53:39.3603533
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:10.4944601
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:11.4123591
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:20.4278883
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:21.4670872
+[MSG] : [READ][FROM][EQUIP] Labno : I071809105, Instid : L72-131, Result : IgG+C3d=-^IgG+C3d=-^IgG+C3d=-^IgG+C3d=BLK^-
+ 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:22.3702280
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:56:23.4811550
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:33.9649883
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:33.9731619
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:33.9731619
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:35.0323617
+[MSG] : [READ][FROM][EQUIP] Labno : I071809105, Instid : L72-131, Result : IgG+C3d=-^IgG+C3d=-^IgG+C3d=-^IgG+C3d=BLK^-
+ 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:35.0323617
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:35.0323617
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:50.7569521
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:50.7676326
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:50.7676326
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:51.8614231
+[MSG] : [READ][FROM][EQUIP] Labno : I071809105, Instid : L72-131, Result : IgG+C3d=-^IgG+C3d=-^IgG+C3d=-^IgG+C3d=BLK^-
+ 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:51.8614231
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:51.8624217
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:58:54.7949445
+[MSG] : Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: 沒有監聽器 ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: 沒有監聽器 ---> System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 10.36.15.81:1521
+   於 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   於 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   於 System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   於 OracleInternal.Network.TcpTransportAdapter.Connect(ConnectionOption conOption)
+   於 OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   於 OracleInternal.Network.OracleCommunication.Connect(String tnsDescriptor, Boolean doNAHandshake, String IName)
+   於 OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, String instanceName)
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchMultiple[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 97
+   於 CG_Laboratory_DB.Model.DB.LisODB.MultiFetchByLabnoAndInsnameAndGpNew(List`1 labnoSt, List`1 insnameSt, Boolean likeFlag) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\LisODB.cs: 行 182
+   於 CG_Laboratory_DB.Services.Aigel.PatientMessage._ResultHandler(List`1 resultMsg) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Aigel\PatientMessage.cs: 行 155
+   於 CG_Laboratory_DB.Services.Aigel.PatientMessage.parseASTMMsg(String msg) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\Aigel\PatientMessage.cs: 行 38 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:00.5318728
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:00.5423452
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:00.5423452
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:35.2788497
+[MSG] : [READ][FROM][EQUIP] Labno : I071809105, Instid : L72-131, Result : IgG+C3d=-^IgG+C3d=-^IgG+C3d=-^IgG+C3d=BLK^-
+ 
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:35.2800202
+[MSG] :  
+[AIGEL_LOG]
+[DATE] : 2024年7月19日 15:59:35.2800202
+[MSG] :  

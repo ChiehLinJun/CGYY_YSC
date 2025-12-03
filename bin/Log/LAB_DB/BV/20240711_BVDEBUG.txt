@@ -1,0 +1,18 @@
+[BV_LOG]
+[DATE] : 2024年7月11日 08:36:01.7941168
+[MSG] : [READ]MSG:Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchSingle[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 69
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchNewestDataByInsnameOrderByLabno(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 120
+   於 CG_Laboratory_DB.Services.JiansuBV.JianBV.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\JiansuBV\JianBV.cs: 行 23 
+[BV_LOG]
+[DATE] : 2024年7月11日 08:37:00.6105964
+[MSG] : [READ]MSG:Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchSingle[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 69
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchNewestDataByInsnameOrderByLabno(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 120
+   於 CG_Laboratory_DB.Services.JiansuBV.JianBV.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\JiansuBV\JianBV.cs: 行 23 
+[BV_LOG]
+[DATE] : 2024年7月11日 08:37:20.6215070
+[MSG] : [READ]MSG:Oracle.ManagedDataAccess.Client.OracleException (0x80004005): 連線要求逾時
+   於 CG_Laboratory_DB.Model.DB.BaseDB.FetchSingle[T](String connSt, String sqlText, Object parameters) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\BaseDB.cs: 行 69
+   於 CG_Laboratory_DB.Model.DB.RecodeODB.FetchNewestDataByInsnameOrderByLabno(String insname) 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Model\DB\RecodeODB.cs: 行 120
+   於 CG_Laboratory_DB.Services.JiansuBV.JianBV.Run() 於 D:\GIT-Clone\CG_Laboratory_DB\CG_Laboratory_DB\Services\JiansuBV\JianBV.cs: 行 23 
