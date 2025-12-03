@@ -96,7 +96,7 @@ namespace CGYY_YSC.Entity.DB
 
         public string IctericValue { get; set; }
 
-        public string IctericTiter { get; set; }
+        public string? IctericTiter { get; set; }
 
         public string INSTIT { get; set; }
 

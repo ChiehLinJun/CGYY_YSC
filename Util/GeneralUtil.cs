@@ -8,6 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using System.Runtime.Versioning;
 
 namespace CGYY_YSC.Util
 {
@@ -162,6 +163,7 @@ namespace CGYY_YSC.Util
             return base64String;
         }
 
+        [SupportedOSPlatform("windows")]
         public static Dictionary<string, PictureEntity> GetImage(string pathReader, string backUpPath, string fileType, bool isLabno = false)
         {
             var imageBlobDict = new Dictionary<string, PictureEntity>();
@@ -195,6 +197,7 @@ namespace CGYY_YSC.Util
             return imageBlobDict;
         }
 
+        [SupportedOSPlatform("windows")]
         private static string GetImageMimeType(string imagePath)
         {
             using (var image = Image.FromFile(imagePath))

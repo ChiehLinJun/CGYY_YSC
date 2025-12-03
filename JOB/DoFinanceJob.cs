@@ -23,7 +23,7 @@ namespace CGYY_YSC.JOB
                 try
                 {
                     _logger.LogInformation(DateTime.Now + " | DoFinanceJob Patient is runing");                    
-                    main.DisplayInstidName();
+                    main.InsertFinance();
                 }
                 catch (Exception e)
                 {
