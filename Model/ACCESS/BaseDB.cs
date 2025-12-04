@@ -14,7 +14,7 @@ namespace CGYY_YSC.Model.ACCESS
 
         public static void Initialize(ConfigEntity config)
         {
-            BvmConnString = string.Format(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Jet OLEDB:Database Password={1};Persist Security Info=False;", config.AccessDBJianSu.SOURCEFILE, config.AccessDBJianSu.PW);
+            //BvmConnString = string.Format(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Jet OLEDB:Database Password={1};Persist Security Info=False;", config.AccessDBJianSu.SOURCEFILE, config.AccessDBJianSu.PW);
         }
 
         public BaseDB()

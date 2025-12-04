@@ -22,7 +22,8 @@ namespace CGYY_YSC.JOB
                 FinanceBase main = new FinanceBase();
                 try
                 {
-                    _logger.LogInformation(DateTime.Now + " | DoFinanceJob Patient is runing");                    
+                    _logger.LogInformation(DateTime.Now + " | DoFinanceJob Patient is runing");
+                    Log.DebugLog("in job");
                     main.InsertFinance();
                 }
                 catch (Exception e)

@@ -5,8 +5,8 @@
     "pw": "opn123"
   },
   "DatabaseMid": {
-    "source": "10.36.15.81:1521/CXMG1",
-    "user": "cghlabm",
-    "pw": "labmappl"
+    "source": "10.36.15.83:1521/CXMG3",
+    "user": "cghexs",
+    "pw": "exsoral"
   }
 }

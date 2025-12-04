@@ -162,50 +162,5 @@ namespace CGYY_YSC.Util
 
             return base64String;
         }
-
-        [SupportedOSPlatform("windows")]
-        public static Dictionary<string, PictureEntity> GetImage(string pathReader, string backUpPath, string fileType, bool isLabno = false)
-        {
-            var imageBlobDict = new Dictionary<string, PictureEntity>();
-
-            foreach (string imagePath in Directory.EnumerateFiles(pathReader, fileType))
-            {
-                try
-                {                    
-                    string imageName = Path.GetFileNameWithoutExtension(imagePath);
-                    var imgType = GetImageMimeType(imagePath);
-                    byte[] imageBytes = ConvertImageToBlob(imagePath);
-                                        
-                    if (imageBytes != null)
-                    {
-                        if (isLabno) imageName = TransferLabno(imageName);
-                        var imgEnt = new PictureEntity
-                        {
-                            _ImgBlob = imageBytes,
-                            _ImgType = imgType
-                        };
-                        imageBlobDict[imageName] = imgEnt;
-                        MoveFile(imagePath, backUpPath, null);
-                    }
-                    Log.DebugLog($"[DEBUG][PIC][FILENAME]  {imageName}, PATH:{imagePath}");
-                }
-                catch (Exception ex)
-                {
-                    Log.ErrorLog(String.Format("[PIC][FAIL] Move Pic Fail : {0},filename:{1}", ex.Message, Path.GetFileName(imagePath)));
-                }
-            }
-            return imageBlobDict;
-        }
-
-        [SupportedOSPlatform("windows")]
-        private static string GetImageMimeType(string imagePath)
-        {
-            using (var image = Image.FromFile(imagePath))
-            {
-                var format = image.RawFormat;
-                var codec = ImageCodecInfo.GetImageEncoders().FirstOrDefault(c => c.FormatID == format.Guid);
-                return codec?.MimeType ?? "unknown";
-            }
-        }
     }
 }

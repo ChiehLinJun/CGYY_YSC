@@ -20,7 +20,7 @@ namespace CGYY_YSC.Entity.DB
 
         public string SG { get; set; } = "~";
 
-        public string EMPNO { get; set; } = "AAOT";
+        public string EMPNO { get; set; } = "~";
 
         public string FBEL { get; set; } = "~";
 

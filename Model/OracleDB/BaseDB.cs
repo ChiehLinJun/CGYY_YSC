@@ -11,8 +11,8 @@ namespace CGYY_YSC.Model.OracleDB
 {
     public class BaseDB
     {
-        private static int _instanceCount = 0;
         private static object _lockObject = new object();
+
         protected static string MidOrConnString;
         protected static string LisOrConnString;
         protected static string DpConnString;
@@ -29,45 +29,101 @@ namespace CGYY_YSC.Model.OracleDB
 
         public BaseDB()
         {
-            lock (_lockObject)
-            {
-                _instanceCount++;
-            }
         }
 
         protected void GetConnection(ref OracleConnection conn)
         {
+            if (conn == null)
+            {
+                throw new ArgumentNullException(nameof(conn));
+            }
+
             if (conn.State == ConnectionState.Closed || conn.State == ConnectionState.Broken)
             {
                 conn.Open();
             }
         }
 
-        protected string GenerateInsertValueString(string columnst) => Regex.Replace(":" + columnst.Trim().Replace(" ", ""), @"\b,\b", ", :");
+        protected string GenerateInsertValueString(string columnst)
+        {
+            if (string.IsNullOrWhiteSpace(columnst))
+            {
+                return string.Empty;
+            }
+
+            var rawParts = columnst.Split(',');
+            var parts = new List<string>(rawParts.Length);
+
+            foreach (var raw in rawParts)
+            {
+                var name = raw.Trim();
+                if (string.IsNullOrEmpty(name))
+                {
+                    continue;
+                }
+
+                parts.Add(":" + name);
+            }
+
+            return string.Join(", ", parts);
+        }
+
+        protected OracleConnection CreateConnection(string connString)
+        {
+            if (string.IsNullOrWhiteSpace(connString))
+            {
+                throw new ArgumentException("Connection string cannot be null or empty.", nameof(connString));
+            }
+
+            var connection = new OracleConnection(connString);
+            connection.Open();
+            return connection;
+        }
+
+        protected OracleConnection CreateMidConnection()
+        {
+            return CreateConnection(MidOrConnString);
+        }
+
+        protected OracleConnection CreateLisConnection()
+        {
+            return CreateConnection(LisOrConnString);
+        }
+
+        protected OracleConnection CreateDpConnection()
+        {
+            return CreateConnection(DpConnString);
+        }
 
         protected T? FetchSingle<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
         {
-            using (OracleConnection connection = new OracleConnection(connSt))
+            using (OracleConnection connection = CreateConnection(connSt))
             {
                 try
                 {
-                    connection.Open();
                     try
                     {
-                        var data = connection.QueryFirst<T>(sqlText, parameters);
-                        return (T)Convert.ChangeType(data, typeof(T));
+                        var data = connection.QueryFirstOrDefault<T>(sqlText, parameters);
+
+                        if (data == null)
+                        {
+                            Log.DBINFOLog(string.Format("[DB][FETCH_SINGLE][NOT_FOUND] SqlText: {0}", sqlText));
+                            return null;
+                        }
+
+                        return data;
 
                     }
                     catch (Exception e)
                     {
-                        Log.DBINFOLog(string.Format("[DB][FETCH SINGLE][NOT FOUND] SqlText : {0}", sqlText));
-                        Log.DBINFOLog(string.Format("[DB][FETCH SINGLE][NOT FOUND] STACK {0}", e.Message));
+                        Log.DBWARNLog(string.Format("[DB][FETCH_SINGLE][EXCEPTION] SqlText: {0}", sqlText));
+                        Log.DBWARNLog(string.Format("[DB][FETCH_SINGLE][EXCEPTION_STACK] {0}", e.Message));
                         return null;
                     }
                 }
                 catch (Exception ex)
                 {
-                    Log.DBINFOLog("[DB][FETCH SINGLE][ERROR] " + ex.Message);
+                    Log.DBWARNLog(string.Format("[DB][FETCH_SINGLE][ERROR] {0}", ex.Message));
                     throw;
                 }
             }
@@ -75,27 +131,26 @@ namespace CGYY_YSC.Model.OracleDB
 
         protected List<T>? FetchMultiple<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
         {
-            using (OracleConnection connection = new OracleConnection(connSt))
+            using (OracleConnection connection = CreateConnection(connSt))
             {
                 try
                 {
-                    connection.Open();
                     try
                     {
                         var data = connection.Query<T>(sqlText, parameters);
-                        return (List<T>)Convert.ChangeType(data, typeof(List<T>));
+                        return data?.AsList();
 
                     }
                     catch (Exception e)
                     {
-                        Log.DBINFOLog(string.Format("[DB][FETCH MULTI][NOT FOUND] SqlText : {0}", sqlText));
-                        Log.DBINFOLog(string.Format("[DB][FETCH MULTI][NOT FOUND] STACK {0}", e.Message));
+                        Log.DBWARNLog(string.Format("[DB][FETCH_MULTI][EXCEPTION] SqlText: {0}", sqlText));
+                        Log.DBWARNLog(string.Format("[DB][FETCH_MULTI][EXCEPTION_STACK] {0}", e.Message));
                         return null;
                     }
                 }
                 catch (Exception ex)
                 {
-                    Log.DBINFOLog("[DB][FETCH MULTI][ERROR] " + ex.Message);
+                    Log.DBWARNLog(string.Format("[DB][FETCH_MULTI][ERROR] {0}", ex.Message));
                     throw;
                 }
             }
@@ -111,98 +166,24 @@ namespace CGYY_YSC.Model.OracleDB
 
                 GetConnection(ref conn);
 
-                OracleCommand cmd = new OracleCommand(sqlText, conn);
+                using (OracleCommand cmd = new OracleCommand(sqlText, conn))
+                {
+                    //if (content != null) cmd = ConvertEntToParam(cmd, content);
 
-                //ConvertEntToCmd(ref cmd, list);
-                //if (content != null) cmd = ConvertEntToParam(cmd, content);
-
-                cmd.ExecuteNonQuery();
+                    cmd.ExecuteNonQuery();
+                }
             }
             catch (Exception ex)
             {
-                Log.DBINFOLog("[DB][EXCUTE][ERROR] " + ex.Message);
+                Log.DBWARNLog(string.Format("[DB][EXECUTE][ERROR] {0}", ex.Message));
                 throw;
             }
         }
 
-        private void ConvertEntToCmd<T>(ref OracleCommand cmd, List<T> list, string column) where T : BaseEntity
-        {
-
-            foreach (BaseEntity ent in list)
-            {
-                cmd.Parameters.Clear();
-                //command.Parameters.Add(new OracleParameter("COL1", item.Col1));
-                // command.Parameters.Add(new OracleParameter("COL2", item.Col2));
-
-
-                Type t = ent.GetType();
-                PropertyInfo[] props = t.GetProperties();
-                //var e = false;
-                foreach (PropertyInfo p in props)
-                {
-                    var value = p.GetValue(ent, null);
-                    if (Equals(p.Name, "LISVRFDAT"))
-                    {
-                        if (Equals(p.GetValue(ent, null), new DateTime()))
-                        {
-                            //e = true;
-                        }
-                    }
-                    switch (p.PropertyType)
-                    {
-                        case Type intType when intType == typeof(int):
-                            cmd.Parameters.Add(new OracleParameter("COL1", value));
-                            // Do something for int type
-                            break;
-                        case Type stringType when stringType == typeof(string):
-                            cmd.Parameters.Add(new OracleParameter("COL1", value));
-
-                            // Do something for string type
-                            break;
-                        case Type boolType when boolType == typeof(bool):
-
-                            // Do something for bool type
-                            break;
-                        case Type DateType when DateType == typeof(DateTime):
-                            // Do something for bool type
-                            if (!Equals(value, new DateTime()) && !ReferenceEquals(value, null))
-                            {
-                                //e = true;
-                            }
-                            break;
-                        default:
-                            // not in type
-                            break;
-
-                    }
-
-
-                    var a = p.GetValue(ent, null);
-                    if (p.PropertyType == typeof(string))
-                    {
-                        var b = p.GetType().ReflectedType;
-                    }
-                    else if (p.PropertyType == typeof(int))
-                    {
-                        var b = p.GetType().ReflectedType;
-                    }
-                    else if (p.PropertyType == typeof(DateTime))
-                    {
-
-
-                    }
-                    var c = p.Name;
-                }
-                cmd.ExecuteNonQuery();
-            }
-        }
-
-
         protected void ExcuteMid(string sqlText, OracleParameter[] parameters)
         {
-            using (OracleConnection connection = new OracleConnection(MidOrConnString))
+            using (OracleConnection connection = CreateMidConnection())
             {
-                connection.Open();
                 using (OracleTransaction transaction1 = connection.BeginTransaction(IsolationLevel.ReadCommitted))
                 {
                     using (OracleCommand cmd1 = new OracleCommand(sqlText, connection))
@@ -221,7 +202,7 @@ namespace CGYY_YSC.Model.OracleDB
                         }
                         catch (Exception ex)
                         {
-                            Log.DBINFOLog(ex.ToString());
+                            Log.DBWARNLog(string.Format("[DB][EXECUTE_MID][EXCEPTION] {0}", ex));
                             transaction1.Rollback();
                             throw;
                         }
@@ -232,15 +213,15 @@ namespace CGYY_YSC.Model.OracleDB
 
         protected void ExcuteMultiMid(string sqlText, List<OracleParameter[]> list)
         {
-            using (OracleConnection connection = new OracleConnection(MidOrConnString))
+            using (OracleConnection connection = CreateMidConnection())
             {
-                connection.Open();
                 using (OracleTransaction transaction1 = connection.BeginTransaction(IsolationLevel.ReadCommitted))
                 {
                     using (OracleCommand cmd1 = new OracleCommand(sqlText, connection))
                     {
                         try
                         {
+                            Log.DBINFOLog("DB ING");
                             cmd1.Transaction = transaction1;
 
                             foreach (OracleParameter[] parameters in list)
@@ -249,28 +230,23 @@ namespace CGYY_YSC.Model.OracleDB
                                 {
                                     cmd1.Parameters.Clear();
                                     cmd1.Parameters.AddRange(parameters);
+                                    Log.DBINFOLog("DB Excute");
                                     cmd1.ExecuteNonQuery();
+                                    Log.DBINFOLog("DB Excute DONE");
                                 }
                             }
-
+                            Log.DBINFOLog("DB COMMIT");
                             transaction1.Commit();
+                            Log.DBINFOLog("COMMIT DONE");
                         }
                         catch (Exception ex)
                         {
-                            Log.DBINFOLog(ex.ToString());
+                            Log.DBWARNLog(string.Format("[DB][EXECUTE_MULTI_MID][EXCEPTION] {0}", ex));
                             transaction1.Rollback();
                             throw;
                         }
                     }
                 }
-            }
-        }
-
-        ~BaseDB()
-        {
-            lock (_lockObject)
-            {
-                _instanceCount--;
             }
         }
     }

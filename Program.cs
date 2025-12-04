@@ -19,7 +19,6 @@ namespace CGYY_YSC
         static void Main(string[] args)
         {
             ShowWindow(GetConsoleWindow(), 0);
-            Log.DBINFOLog("123");
             CreateHostBuilder(args).Build().Run();
         }
 
