@@ -12,7 +12,7 @@ namespace CGYY_YSC.Entity.DB
 
         public string LOC { get; set; } = "3";
 
-        public string IT { get; set; }
+        public string IT { get; set; } = "70";
 
         public string BG { get; set; } = "*";
 
@@ -20,7 +20,7 @@ namespace CGYY_YSC.Entity.DB
 
         public string SG { get; set; } = "~";
 
-        public string EMPNO { get; set; }
+        public string EMPNO { get; set; } = "~";
 
         public string FBEL { get; set; } = "~";
 
@@ -36,11 +36,11 @@ namespace CGYY_YSC.Entity.DB
 
         public Decimal AMT1 { get; set; }
 
-        public Decimal AMT2 { get; set; }
+        //public Decimal AMT2 { get; set; }
 
-        public Decimal AMT3 { get; set; }
+        //public Decimal AMT3 { get; set; }
 
-        public Decimal AMT4 { get; set; }
+        //public Decimal AMT4 { get; set; }
 
         public string XREM1 { get; set; } = DateTime.Now.ToString("yyyyMMdd");
     }

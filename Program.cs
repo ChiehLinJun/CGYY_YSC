@@ -1,9 +1,11 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.DependencyInjection;
 using Quartz;
 using System;
 using System.Runtime.InteropServices;
 using static CGYY_YSC.JOB.DoFinanceJob;
+using CGYY_YSC.Entity;
 
 namespace CGYY_YSC
 {
@@ -21,17 +23,22 @@ namespace CGYY_YSC
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
-    Host.CreateDefaultBuilder(args)
+        Host.CreateDefaultBuilder(args)
         .ConfigureAppConfiguration(app =>
         {
-            app.AddJsonFile("appsettings.json");
+            app.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+            app.AddJsonFile("config.json", optional: false, reloadOnChange: true);
         })
         .ConfigureServices((hostContext, services) =>
         {
+            // Bind config.json into ConfigEntity using options pattern (supports reloadOnChange)
+            services.Configure<ConfigEntity>(hostContext.Configuration);
+
+            // Hosted service that initializes and refreshes DB connection strings on config changes
+            services.AddHostedService<CGYY_YSC.Services.DbConnectionInitializer>();
+
             services.AddQuartz(q =>
             {
-                q.UseMicrosoftDependencyInjectionJobFactory();
-
                 var jobTypes = new[]
                 {
                     typeof(DoFinance)
@@ -58,12 +65,13 @@ namespace CGYY_YSC
 
             if (string.IsNullOrEmpty(cronSchedule))
             {
+                Log.DBINFOLog("123");
                 throw new Exception($"No Quartz.NET Cron schedule found for job in configuration at {configKey}");
             }
 
             var jobKey = new JobKey(jobName);
-           
-            quartz.AddJob(jobType, jobKey, (Action<IJobConfigurator>)null);
+
+            quartz.AddJob(jobType, jobKey, opts => { });
             quartz.AddTrigger(opts => opts
                 .ForJob(jobKey)
                 .WithIdentity(jobName + "-Trigger")

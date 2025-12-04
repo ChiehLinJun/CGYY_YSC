@@ -1,25 +1,27 @@
 ﻿using CGYY_YSC.Entity;
-using CGYY_YSC.Util;
 using Dapper;
 using System;
 using System.Collections.Generic;
 using System.Data.OleDb;
+using System.Runtime.Versioning;
 
 namespace CGYY_YSC.Model.ACCESS
 {
+    [SupportedOSPlatform("windows")]
     class BaseDB
     {
-        private static ConfigEntity config;
         protected static string BvmConnString;
+
+        public static void Initialize(ConfigEntity config)
+        {
+            //BvmConnString = string.Format(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Jet OLEDB:Database Password={1};Persist Security Info=False;", config.AccessDBJianSu.SOURCEFILE, config.AccessDBJianSu.PW);
+        }
 
         public BaseDB()
         {
-            config = ConfigUtil.GetConfig();
-            BvmConnString = string.Format(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Jet OLEDB:Database Password={1};Persist Security Info=False;", config.AccessDBJianSu.SOURCEFILE, config.AccessDBJianSu.PW);
-
         }
 
-        protected T FetchSingle<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
+        protected T? FetchSingle<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
         {
             using (OleDbConnection connection = new OleDbConnection(connSt))
             {
@@ -47,7 +49,7 @@ namespace CGYY_YSC.Model.ACCESS
             }
         }
 
-        protected List<T> FetchMultiple<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
+        protected List<T>? FetchMultiple<T>(string connSt, string sqlText, object parameters = null) where T : BaseEntity
         {
             using (OleDbConnection connection = new OleDbConnection(connSt))
             {
